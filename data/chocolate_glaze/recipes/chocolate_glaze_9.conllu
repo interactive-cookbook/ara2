@@ -1,0 +1,18 @@
+1	Combine	_	_	B-A	_	9	edge	_	_
+2	all	_	_	O	_	0	root	_	_
+3	ingredients	_	_	O	_	0	root	_	_
+4	in	_	_	O	_	0	root	_	_
+5	a	_	_	O	_	0	root	_	_
+6	small	_	_	O	_	0	root	_	_
+7	bowl	_	_	O	_	0	root	_	_
+8	.	_	_	O	_	0	root	_	_
+9	Whisk	_	_	B-A	_	13	edge	_	_
+10	until	_	_	O	_	0	root	_	_
+11	smooth	_	_	O	_	0	root	_	_
+12	.	_	_	O	_	0	root	_	_
+13	Drizzle	_	_	B-A	_	0	root	_	_
+14	over	_	_	O	_	0	root	_	_
+15	cake	_	_	O	_	0	root	_	_
+16	.	_	_	O	_	0	root	_	_
+
+	O	_	0	root	_	_

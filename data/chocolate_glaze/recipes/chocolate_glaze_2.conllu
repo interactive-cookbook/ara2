@@ -1,0 +1,22 @@
+1	Melt	_	_	B-A	_	6	edge	_	_
+2	chocolate	_	_	O	_	0	root	_	_
+3	and	_	_	O	_	0	root	_	_
+4	butter	_	_	O	_	0	root	_	_
+5	.	_	_	O	_	0	root	_	_
+6	Mix	_	_	B-A	_	15	edge	_	_
+7	together	_	_	I-A	_	0	root	_	_
+8	with	_	_	O	_	0	root	_	_
+9	powdered	_	_	O	_	0	root	_	_
+10	sugar	_	_	O	_	0	root	_	_
+11	.	_	_	O	_	0	root	_	_
+12	Use	_	_	O	_	0	root	_	_
+13	this	_	_	O	_	0	root	_	_
+14	to	_	_	O	_	0	root	_	_
+15	frost	_	_	B-A	_	0	root	_	_
+16	fudge	_	_	O	_	0	root	_	_
+17	brownies	_	_	O	_	0	root	_	_
+18	or	_	_	O	_	0	root	_	_
+19	cakes	_	_	O	_	0	root	_	_
+20	.	_	_	O	_	0	root	_	_
+
+	O	_	0	root	_	_
